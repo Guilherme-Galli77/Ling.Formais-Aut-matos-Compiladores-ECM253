@@ -1,1 +1,1 @@
-# Ling.Formais-Aut-matos-Compiladores-ECM253
+# Ling.Formais-Automatos-Compiladores-ECM253
